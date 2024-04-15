@@ -19,8 +19,11 @@
 | ツール | Github, VSCode, Slack, Notion |
 
 ## 職務経歴書
-- [職務経歴書 PDF](職務経歴書.pdf)
+- [Web版](https://sleet-scallop-b9f.notion.site/f3f03c6fa4c64a178a3332baf9352122)
+- [PDF版](職務経歴書.pdf)
 
+
+*****
 [![trophy](https://github-profile-trophy.vercel.app/?username=hironobu0824)](https://github.com/hironobu0824/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hironobu0824)](https://github.com/anuraghazra/github-readme-stats)
