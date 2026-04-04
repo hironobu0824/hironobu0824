@@ -29,3 +29,7 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hironobu0824)](https://github.com/anuraghazra/github-readme-stats)
 
 [![hironobu0824's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hironobu0824)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+*最終更新日: 2026-04-04*
