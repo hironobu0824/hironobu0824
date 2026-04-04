@@ -11,9 +11,9 @@
 ## スキル・開発環境
 | 担当業務 | 詳細設計、実装、テスト、開発環境整備 |
 | --- | --- |
-| 言語 | PHP、JavaScript |
-| FW | Laravel、jQuery |
-| DB | PostgreSQL |
+| 言語 | PHP、JavaScript、TypeScript |
+| FW | Laravel、jQuery、Next.js |
+| DB | PostgreSQL、MySQL |
 | その他 | Docker、（AWS） |
 | PC | Mac |
 | ツール | Github, VSCode, Slack, Notion |
